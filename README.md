@@ -13,7 +13,7 @@ A crawler for rcdb.com. Crawler of the `Roller coaster` data.
 
 ```json
 {
-  id: int, // the No. of the website, such as 
+  id: int, // the No. of the website
   name: str, 
   location: str, 
   catalog: str,
